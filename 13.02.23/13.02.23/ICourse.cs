@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _13._02._23
+{
+    internal interface ICourse
+    {
+        public void AddGroup(Group group);
+
+        public Group GetGroupByNo(string no);
+
+        public Group[] Search(string str);
+    }
+}
