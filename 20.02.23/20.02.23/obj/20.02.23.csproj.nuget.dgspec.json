@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Visual-tasks\\15.02.23\\15.02.23\\15.02.23.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\20.02.23\\20.02.23\\20.02.23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Visual-tasks\\15.02.23\\15.02.23\\15.02.23.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\20.02.23\\20.02.23\\20.02.23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Visual-tasks\\15.02.23\\15.02.23\\15.02.23.csproj",
-        "projectName": "15.02.23",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Visual-tasks\\15.02.23\\15.02.23\\15.02.23.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\20.02.23\\20.02.23\\20.02.23.csproj",
+        "projectName": "20.02.23",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\20.02.23\\20.02.23\\20.02.23.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Visual-tasks\\15.02.23\\15.02.23\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\20.02.23\\20.02.23\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
